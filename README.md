@@ -1,2 +1,3 @@
 # ProLaLa2022
-Material for ProLaLa Keynote
+
+Extra material for "Programming Languages and the Law" 2022 Keynote
