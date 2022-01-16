@@ -8,7 +8,7 @@ Archival material for "Programming Languages and the Law" 2022 Keynote by:
 
 ## Presentation
 
-**What Does A Toolchain for Automating Legislation Eventually Become** [PowerPoint](What Does A Toolchain for Automating Legislation Eventually Become.pptx), [PDF](What%20Does%20A%20Toolchain%20for%20Automating%20Legislation%20Eventually%20Become.pdf).
+**What Does A Toolchain for Automating Legislation Eventually Become** [PowerPoint](https://github.com/dsyme/ProLaLa2022/blob/main/What%20Does%20A%20Toolchain%20for%20Automating%20Legislation%20Eventually%20Become.pptx), [PDF](What%20Does%20A%20Toolchain%20for%20Automating%20Legislation%20Eventually%20Become.pdf).
 
 ## Archival Papers
 
