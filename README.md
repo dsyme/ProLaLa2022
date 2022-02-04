@@ -18,6 +18,8 @@ See [Papers](Papers/)
 
 1993 - Beyond Knowledge Representation - Commercial uses for legal knowledge bases - ICAIL '93 - Amsterdam - Dayal, Harmer, Johnson, Mead, [DOI](https://dl.acm.org/doi/10.1145/158976.158997)
 
+1994 - Natural Language - An Appropriate Knowledge Representation Scheme for the Administrative Domain - Dayal, Mead, Johnson [Reference](https://www.semanticscholar.org/paper/Moving-towards-expert-systems-globally-in-the-21st-Liebowitz/e3279cfe655efc114a52cb9dce9e7f01287d85cf)
+
 1998 - Accuracy Consistency in Complex Transactions - Peter Johnson - Surend Dayal
 
 1999 - Knowledge management, knowledge based systems and the transformation of government - Peter Johnson
